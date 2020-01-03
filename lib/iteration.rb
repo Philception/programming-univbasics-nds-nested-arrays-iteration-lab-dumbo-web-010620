@@ -8,7 +8,6 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
   #{inner_array element[1]}"
   result = []
-
     i = 0
     while i < src.length do
       inner = src[i]
